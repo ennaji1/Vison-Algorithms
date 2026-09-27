@@ -8,3 +8,4 @@ __MACOSX/
 .env
 .env.*
 !.env.example
+/01_camera_projection - exercise/matlab_code/
